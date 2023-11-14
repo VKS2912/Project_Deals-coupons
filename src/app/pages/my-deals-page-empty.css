@@ -1,0 +1,2324 @@
+.my-deals-page-empty-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.my-deals-page-empty-my-deals-pagehistory {
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(247, 247, 247, 1);
+}
+.my-deals-page-empty-frame48095829 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-deals-page-empty-frame48095828 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.my-deals-page-empty-top-nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-frame23 {
+  gap: 36px;
+  display: flex;
+  padding: 36px 86px 18px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(31, 27, 41, 1);
+}
+.my-deals-page-empty-frame15 {
+  gap: 10.40000057220459px;
+  display: flex;
+  padding: 10.40000057220459px 18px;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1.3000000715255737px;
+  border-radius: 12px;
+  justify-content: center;
+}
+.my-deals-page-empty-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-inputwithlabel {
+  gap: 6px;
+  width: 40%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-deals-page-empty-input {
+  gap: 8px;
+  width: 100%;
+  display: flex;
+  padding: 12px 36px;
+  overflow: hidden;
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05000000074505806) ;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(28, 25, 23, 1);
+}
+.my-deals-page-empty-searchlg {
+  width: 16px;
+  height: 16px;
+}
+.my-deals-page-empty-content {
+  gap: 8px;
+  width: 82%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.my-deals-page-empty-frame29 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.my-deals-page-empty-text002 {
+  color: rgba(232, 232, 232, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-button {
+  gap: 8px;
+  display: flex;
+  padding: 8px 16px;
+  overflow: hidden;
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05000000074505806) ;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(34, 36, 44, 1);
+}
+.my-deals-page-empty-text004 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame22 {
+  gap: 36px;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.my-deals-page-empty-frame16 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: center;
+}
+.my-deals-page-empty-text006 {
+  color: rgba(106, 39, 217, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame35 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  z-index: 1;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: center;
+}
+.my-deals-page-empty-text008 {
+  color: rgba(106, 39, 217, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame17 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 18px;
+  z-index: 2;
+  align-items: center;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: rgba(106, 39, 217, 1);
+}
+.my-deals-page-empty-text010 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-bell01 {
+  width: 24px;
+  height: 24px;
+  z-index: 3;
+}
+.my-deals-page-empty-icon {
+  width: 24px;
+  height: 24px;
+  z-index: 4;
+}
+.my-deals-page-empty-frame34 {
+  gap: 8px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  padding: 8px;
+  z-index: 5;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 18px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(171, 32, 32, 1);
+}
+.my-deals-page-empty-text012 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-inputfield {
+  gap: 24px;
+  display: flex;
+  padding: 24px 96px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: rgba(31, 27, 41, 1);
+}
+.my-deals-page-empty-frame31 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text013 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-line1 {
+  width: 20px;
+  height: 1px;
+}
+.my-deals-page-empty-frame48095800 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.my-deals-page-empty-frame32 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text015 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame321 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text017 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame48095801 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text019 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame48095802 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text021 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame48095803 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text023 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame48095804 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text025 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame48095805 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text027 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame48095806 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text029 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame48095807 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text031 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame48095808 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text033 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-frame48095809 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 5px;
+}
+.my-deals-page-empty-text035 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-horizontaltabs {
+  gap: 18px;
+  width: 100%;
+  display: flex;
+  padding: 1.5%;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-deals-page-empty-frame-tabbuttonbase {
+  gap: 9.239999771118164px;
+  display: flex;
+  padding: 11.549999237060547px 16.170000076293945px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 6.929999828338623px;
+  justify-content: center;
+  background-color: rgba(249, 245, 255, 1);
+}
+.my-deals-page-empty-text037 {
+  color: #85DCFF;
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-tabbuttonbase1 {
+  gap: 9.239999771118164px;
+  display: flex;
+  padding: 11.549999237060547px 16.170000076293945px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 6.929999828338623px;
+  justify-content: center;
+}
+.my-deals-page-empty-text039 {
+  color: #595959;
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-tabbuttonbase2 {
+  gap: 9.239999771118164px;
+  display: flex;
+  padding: 11.549999237060547px 16.170000076293945px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 6.929999828338623px;
+  justify-content: center;
+}
+.my-deals-page-empty-text041 {
+  color: #595959;
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame48095872 {
+  gap: 36px;
+  width: 100%;
+  display: flex;
+  padding: 5%;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-deals-page-empty-sectionheader {
+  gap: 31.20000457763672px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-content1 {
+  gap: 24.960002899169922px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-deals-page-empty-textandsupportingtext {
+  gap: 6.2400007247924805px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.my-deals-page-empty-text043 {
+  color: 101828;
+  height: auto;
+  font-size: 26.079999923706055px;
+  align-self: stretch;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 43.68000411987305px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-text045 {
+  color: rgba(71, 84, 102, 1);
+  height: auto;
+  font-size: 19.84000015258789px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 31.20000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-actions {
+  gap: 18.720001220703125px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button01 {
+  gap: 12.480001449584961px;
+  display: flex;
+  padding: 15.60000228881836px 24.960002899169922px;
+  overflow: hidden;
+  box-shadow: 0px 1.5600001811981201px 3.1200003623962402px 0px rgba(16, 24, 40, 0.05000000074505806) ;
+  align-items: center;
+  border-color: rgba(207, 212, 220, 1);
+  border-style: solid;
+  border-width: 1.5600001811981201px;
+  border-radius: 12.480001449584961px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-deals-page-empty-downloadcloud02 {
+  width: 31px;
+  height: 31px;
+}
+.my-deals-page-empty-text047 {
+  color: 101828;
+  height: auto;
+  font-size: 14px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 20px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-divider {
+  width: 900px;
+  height: 2px;
+  align-self: stretch;
+}
+.my-deals-page-empty-frame48095870 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-frame480958701 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-deals-page-empty-frame48095868 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-deals-page-empty-tableheadercell {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 69px;
+  display: flex;
+  padding: 18.720001220703125px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-deals-page-empty-tableheader {
+  gap: 6.2400007247924805px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-text049 {
+  color: rgba(71, 84, 102, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500px;
+  line-height: 18px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-tableheadercell1 {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 68.64000701904297px;
+  display: flex;
+  padding: 18.720001220703125px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-deals-page-empty-tableheader1 {
+  gap: 6.2400007247924805px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-text051 {
+  color: rgba(71, 84, 102, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500px;
+  line-height: 18px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-tableheadercell2 {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 68.64000701904297px;
+  display: flex;
+  padding: 18.720001220703125px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-deals-page-empty-tableheader2 {
+  gap: 6.2400007247924805px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-text053 {
+  color: rgba(71, 84, 102, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500px;
+  line-height: 18px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-tableheadercell3 {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 68.64000701904297px;
+  display: flex;
+  padding: 18.720001220703125px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-deals-page-empty-tableheader3 {
+  gap: 6.2400007247924805px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-text055 {
+  color: rgba(71, 84, 102, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500px;
+  line-height: 18px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-tableheadercell4 {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 69px;
+  display: flex;
+  padding: 18.720001220703125px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-deals-page-empty-tableheader4 {
+  gap: 6.2400007247924805px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-text057 {
+  color: rgba(71, 84, 102, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500px;
+  line-height: 18px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame48095869 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-deals-page-empty-tablecell {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 111.99999237060547px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-text059 {
+  color: 101828;
+  width: 100%;
+  height: auto;
+  font-size: 19.84000015258789px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 31.20000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-tablecell01 {
+  width: 20%;
+  height: 112.32001495361328px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-badge {
+  gap: 6.2400007247924805px;
+  display: flex;
+  padding: 3.1200003623962402px 12.480001449584961px 3.1200003623962402px 9.360000610351562px;
+  align-items: center;
+  border-color: rgba(6, 148, 84, 1);
+  border-style: solid;
+  border-width: 2.3400001525878906px;
+  border-radius: 24.960002899169922px;
+}
+.my-deals-page-empty-text061 {
+  color: #4CC366;
+  height: auto;
+  font-size: 12px;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500px;
+  line-height: 18px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-tablecell02 {
+  width: 20%;
+  height: 112.32001495361328px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-text063 {
+  color: 101828;
+  height: auto;
+  font-size: 19.84000015258789px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 31.20000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-tablecell03 {
+  width: 20%;
+  height: 112.32001495361328px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-text065 {
+  color: 101828;
+  height: auto;
+  font-size: 19.84000015258789px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 31.20000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-tablecell04 {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 111.99999237060547px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-button02 {
+  gap: 12.480001449584961px;
+  width: 195px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.my-deals-page-empty-text067 {
+  color: rgba(106, 39, 217, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 20px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame480958691 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-deals-page-empty-tablecell05 {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 111.99999237060547px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-text069 {
+  color: 101828;
+  width: 100%;
+  height: auto;
+  font-size: 19.84000015258789px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 31.20000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-tablecell06 {
+  width: 20%;
+  height: 112.32001495361328px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-badge1 {
+  gap: 6.2400007247924805px;
+  display: flex;
+  padding: 3.1200003623962402px 12.480001449584961px 3.1200003623962402px 9.360000610351562px;
+  align-items: center;
+  border-color: rgba(6, 148, 84, 1);
+  border-style: solid;
+  border-width: 2.3400001525878906px;
+  border-radius: 24.960002899169922px;
+}
+.my-deals-page-empty-text071 {
+  color: #4CC366;
+  height: auto;
+  font-size: 12px;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500px;
+  line-height: 18px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-tablecell07 {
+  width: 20%;
+  height: 112.32001495361328px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-text073 {
+  color: 101828;
+  height: auto;
+  font-size: 19.84000015258789px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 31.20000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-tablecell08 {
+  width: 20%;
+  height: 112.32001495361328px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-text075 {
+  color: 101828;
+  height: auto;
+  font-size: 19.84000015258789px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 31.20000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-tablecell09 {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 111.99999237060547px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-button03 {
+  gap: 12.480001449584961px;
+  width: 195px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.my-deals-page-empty-text077 {
+  color: rgba(106, 39, 217, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 20px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame480958692 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-deals-page-empty-tablecell10 {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 111.99999237060547px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-text079 {
+  color: 101828;
+  width: 100%;
+  height: auto;
+  font-size: 19.84000015258789px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 31.20000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-tablecell11 {
+  width: 20%;
+  height: 112.32001495361328px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-badge2 {
+  gap: 6.2400007247924805px;
+  display: flex;
+  padding: 3.1200003623962402px 12.480001449584961px 3.1200003623962402px 9.360000610351562px;
+  align-items: center;
+  border-color: rgba(6, 148, 84, 1);
+  border-style: solid;
+  border-width: 2.3400001525878906px;
+  border-radius: 24.960002899169922px;
+}
+.my-deals-page-empty-text081 {
+  color: #4CC366;
+  height: auto;
+  font-size: 12px;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500px;
+  line-height: 18px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-tablecell12 {
+  width: 20%;
+  height: 112.32001495361328px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-text083 {
+  color: 101828;
+  height: auto;
+  font-size: 19.84000015258789px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 31.20000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-tablecell13 {
+  width: 20%;
+  height: 112.32001495361328px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-text085 {
+  color: 101828;
+  height: auto;
+  font-size: 19.84000015258789px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 31.20000457763672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-tablecell14 {
+  gap: 18.720001220703125px;
+  width: 20%;
+  height: 111.99999237060547px;
+  display: flex;
+  padding: 24.960002899169922px 37.44000244140625px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 0 0 1.5600001811981201px;
+  justify-content: center;
+}
+.my-deals-page-empty-button04 {
+  gap: 12.480001449584961px;
+  width: 195px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.my-deals-page-empty-text087 {
+  color: rgba(106, 39, 217, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 20px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-footer {
+  gap: 64px;
+  width: 100%;
+  display: flex;
+  padding: 48px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(32, 27, 41, 1);
+}
+.my-deals-page-empty-frame19 {
+  gap: 10.40000057220459px;
+  display: flex;
+  padding: 10.40000057220459px 18px;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1.3000000715255737px;
+  border-radius: 12px;
+  justify-content: center;
+}
+.my-deals-page-empty-text089 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-container1 {
+  gap: 48px;
+  width: 100%;
+  display: flex;
+  padding: 0 32px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-content2 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-deals-page-empty-frame-footerlinkscolumn {
+  gap: 16px;
+  width: 176px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-text091 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-footerlinks {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-deals-page-empty-frame-footerlink {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button05 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text093 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink01 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button06 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text095 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink02 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button07 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text097 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-badge3 {
+  display: flex;
+  padding: 2px 8px;
+  align-items: center;
+  border-color: rgba(170, 239, 198, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+  background-color: rgba(236, 252, 242, 1);
+}
+.my-deals-page-empty-text099 {
+  color: #4CC366;
+  height: auto;
+  font-size: 12px;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500px;
+  line-height: 18px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink03 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button08 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text101 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlinkscolumn1 {
+  gap: 16px;
+  width: 176px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-text103 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-footerlinks1 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-deals-page-empty-frame-footerlink04 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button09 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text105 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink05 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button10 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text107 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink06 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button11 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text109 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink07 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button12 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text111 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlinkscolumn2 {
+  gap: 16px;
+  width: 176px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-text113 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-footerlinks2 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-deals-page-empty-frame-footerlink08 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button13 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text115 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink09 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button14 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text117 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink10 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button15 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text119 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink11 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button16 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text121 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlinkscolumn3 {
+  gap: 16px;
+  width: 176px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-text123 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-footerlinks3 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-deals-page-empty-frame-footerlink12 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button17 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text125 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink13 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button18 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text127 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink14 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button19 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text129 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink15 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button20 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text131 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink16 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button21 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text133 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink17 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button22 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text135 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlinkscolumn4 {
+  gap: 16px;
+  width: 176px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-text137 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-footerlinks4 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-deals-page-empty-frame-footerlink18 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button23 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text139 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink19 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button24 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text141 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink20 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button25 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text143 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink21 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button26 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text145 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlinkscolumn5 {
+  gap: 16px;
+  width: 176px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-text147 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-deals-page-empty-footerlinks5 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-deals-page-empty-frame-footerlink22 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button27 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text149 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink23 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button28 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text151 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink24 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button29 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text153 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink25 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button30 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text155 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink26 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button31 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text157 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-frame-footerlink27 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.my-deals-page-empty-button32 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.my-deals-page-empty-text159 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+.my-deals-page-empty-container2 {
+  gap: 32px;
+  width: 100%;
+  display: flex;
+  padding: 0 32px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.my-deals-page-empty-content3 {
+  display: flex;
+  padding: 32px 0 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(234, 236, 240, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+  justify-content: space-between;
+}
+.my-deals-page-empty-logo {
+  display: flex;
+  align-items: flex-start;
+}
+.my-deals-page-empty-logowrap {
+  width: 142px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-deals-page-empty-logotype {
+  top: 0px;
+  left: 42px;
+  width: 100px;
+  height: 32px;
+  position: absolute;
+}
+.my-deals-page-empty-text161 {
+  color: rgba(255, 255, 255, 1);
+  width: 293px;
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400px;
+  line-height: 24px;
+  font-stretch: normal;
+}
+@media(max-width: 1200px) {
+  .my-deals-page-empty-inputwithlabel {
+    width: 85%;
+  }
+  .my-deals-page-empty-frame22 {
+    display: none;
+  }
+  .my-deals-page-empty-text059 {
+    font-size: 18px;
+  }
+  .my-deals-page-empty-text063 {
+    font-size: 18px;
+  }
+  .my-deals-page-empty-text065 {
+    font-size: 18px;
+  }
+  .my-deals-page-empty-text069 {
+    font-size: 18px;
+  }
+  .my-deals-page-empty-text073 {
+    font-size: 18px;
+  }
+  .my-deals-page-empty-text075 {
+    font-size: 18px;
+  }
+  .my-deals-page-empty-text079 {
+    font-size: 18px;
+  }
+  .my-deals-page-empty-text083 {
+    font-size: 18px;
+  }
+  .my-deals-page-empty-text085 {
+    font-size: 18px;
+  }
+}
+@media(max-width: 991px) {
+  .my-deals-page-empty-text059 {
+    font-size: 17px;
+  }
+  .my-deals-page-empty-text063 {
+    font-size: 17px;
+  }
+  .my-deals-page-empty-text065 {
+    font-size: 17px;
+  }
+  .my-deals-page-empty-text069 {
+    font-size: 17px;
+  }
+  .my-deals-page-empty-text073 {
+    font-size: 17px;
+  }
+  .my-deals-page-empty-text075 {
+    font-size: 17px;
+  }
+  .my-deals-page-empty-text079 {
+    font-size: 17px;
+  }
+  .my-deals-page-empty-text083 {
+    font-size: 17px;
+  }
+  .my-deals-page-empty-text085 {
+    font-size: 17px;
+  }
+}
+@media(max-width: 767px) {
+  .my-deals-page-empty-text059 {
+    font-size: 15px;
+  }
+  .my-deals-page-empty-text063 {
+    font-size: 15px;
+  }
+  .my-deals-page-empty-text065 {
+    font-size: 15px;
+  }
+  .my-deals-page-empty-text069 {
+    font-size: 15px;
+  }
+  .my-deals-page-empty-text073 {
+    font-size: 15px;
+  }
+  .my-deals-page-empty-text075 {
+    font-size: 15px;
+  }
+  .my-deals-page-empty-text079 {
+    font-size: 15px;
+  }
+  .my-deals-page-empty-text083 {
+    font-size: 15px;
+  }
+  .my-deals-page-empty-text085 {
+    font-size: 15px;
+  }
+}
+@media(max-width: 479px) {
+  .my-deals-page-empty-text059 {
+    font-size: 14px;
+  }
+  .my-deals-page-empty-text063 {
+    font-size: 14px;
+  }
+  .my-deals-page-empty-text069 {
+    font-size: 14px;
+  }
+  .my-deals-page-empty-text073 {
+    font-size: 14px;
+  }
+  .my-deals-page-empty-text079 {
+    font-size: 14px;
+  }
+  .my-deals-page-empty-text083 {
+    font-size: 14px;
+  }
+}
